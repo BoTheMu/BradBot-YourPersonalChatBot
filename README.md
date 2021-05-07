@@ -20,9 +20,13 @@ Distributed under the MIT license. See `LICENSE` for more information.
    
    For example, run: pip install flask
    
-5. I am running the python file in the repository (which is now saved on your laptop) using visual studio code (https://code.visualstudio.com/download). You may need to check that you are in the right environment in Visul Studio Code (Ctrl + Shift + P). 
-6. I then run the file app.py in a powershell terminal launched from Visual Studio Code. 
-6. The app can then be seen in your borwser (I used chrome) at the local address that powershell suggests.  
+5. I am running the python file in the repository (which is now saved on your laptop) using visual studio code (https://code.visualstudio.com/download). Openning Visual Studio Code from Anaconda ensures that it can work with the active environment. 
+
+You still may need to check that you are in the right environment in Visual Studio Code (Ctrl + Shift + P).
+
+6. I then run the file app.py in a powershell terminal launched from Visual Studio Code by writing 'Python app.py' 
+
+7. The app can then be seen in your borwser (I used chrome) at the local address that powershell suggests.  
 
 ## Contributing
 
